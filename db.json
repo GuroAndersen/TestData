@@ -22,7 +22,7 @@
     },
     {
         "name": "Carol Johnson",
-        "title": "Employee_1",
+        "title": "Full-time employee",
         "id": 3,
         "work_schedule": {
             "Monday": "10am-6pm",
@@ -32,7 +32,7 @@
     },
     {
         "name": "David Lee",
-        "title": "Employee_2",
+        "title": "Full-time employee",
         "id": 4,
         "work_schedule": {
             "Monday": "8am-4pm",
