@@ -2,6 +2,7 @@
 "employees": [
     {
         "name": "Alice Smith",
+        "title": "Manager",
         "id": 1,
         "work_schedule": {
             "Monday": "9am-5pm",
@@ -11,6 +12,7 @@
     },
     {
         "name": "Bob Jones",
+        "title": "Assistant manager",
         "id": 2,
         "work_schedule": {
             "Tuesday": "9am-5pm",
@@ -20,6 +22,7 @@
     },
     {
         "name": "Carol Johnson",
+        "title": "Employee",
         "id": 3,
         "work_schedule": {
             "Monday": "10am-6pm",
@@ -29,6 +32,7 @@
     },
     {
         "name": "David Lee",
+        "title": "Employee",
         "id": 4,
         "work_schedule": {
             "Monday": "8am-4pm",
@@ -38,6 +42,7 @@
     },
     {
         "name": "Eve Brown",
+        "title": "Part-time employee",
         "id": 5,
         "work_schedule": {
             "Tuesday": "10am-6pm",
