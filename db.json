@@ -1,11 +1,47 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
+        "name": "Alice Smith",
+        "id": 1,
+        "work_schedule": {
+            "Monday": "9am-5pm",
+            "Wednesday": "9am-5pm",
+            "Friday": "9am-5pm"
+        }
+    },
+    {
+        "name": "Bob Jones",
+        "id": 2,
+        "work_schedule": {
+            "Tuesday": "9am-5pm",
+            "Thursday": "9am-5pm",
+            "Saturday": "10am-4pm"
+        }
+    },
+    {
+        "name": "Carol Johnson",
+        "id": 3,
+        "work_schedule": {
+            "Monday": "10am-6pm",
+            "Wednesday": "10am-6pm",
+            "Friday": "10am-6pm"
+        }
+    },
+    {
+        "name": "David Lee",
+        "id": 4,
+        "work_schedule": {
+            "Monday": "8am-4pm",
+            "Wednesday": "8am-4pm",
+            "Friday": "8am-4pm"
+        }
+    },
+    {
+        "name": "Eve Brown",
+        "id": 5,
+        "work_schedule": {
+            "Tuesday": "10am-6pm",
+            "Thursday": "10am-6pm",
+            "Saturday": "9am-5pm"
+        }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
